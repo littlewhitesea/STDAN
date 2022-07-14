@@ -1,6 +1,6 @@
 # STDAN (Keep Update)
 
-This is the official Pytorch implementation of _Space-Time Video Super-Resolution Using Deformable Attention Network_.
+This is the official Pytorch implementation of _STDAN: Space-Time Video Super-Resolution Using Deformable Attention Network_.
 
 ## Dependencies
 
