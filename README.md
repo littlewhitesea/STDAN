@@ -2,6 +2,10 @@
 
 This is the official Pytorch implementation of _STDAN: Space-Time Video Super-Resolution Using Deformable Attention Network_.
 
+By Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingmin Liao
+
+[Paper](https://arxiv.org/abs/2203.06841)
+
 ## Dependencies
 
 - Python 3.8.0 (Recommend to use Anaconda)
