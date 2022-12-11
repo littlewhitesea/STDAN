@@ -4,7 +4,7 @@ This is the official Pytorch implementation of _STDAN: Deformable Attention Netw
 
 By Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingmin Liao
 
-[Paper](https://arxiv.org/abs/2203.06841)
+[[Paper]](https://arxiv.org/abs/2203.06841)
 
 ## Dependencies
 
