@@ -30,7 +30,7 @@ By Hai Wang, Xiaoyu Xiang, Yapeng Tian, Wenming Yang, Qingmin Liao
 
 ### Dataset preparation
 
-You require to prepare datasets for training the model, the detailed information is elaborated in [Data Preparation](https://github.com/littlewhitesea/STDAN-CVPRW-2022/blob/main/datasets/readme.md).
+You require to prepare datasets for training the model, the detailed information of Data Preparation is same as [Zooming Slow-Mo](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020#Prerequisites).
 
 ### Train the STDAN model
 
