@@ -61,6 +61,17 @@ Our pretrained model can be downloaded via [Google Drive](https://drive.google.c
    ```
 
 
+## Citation
+
+If you find the code helpful in your research or work, please cite our paper:
+```
+@article{wang2022stdan,
+  title={STDAN: Deformable Attention Network for Space-Time Video Super-Resolution},
+  author={Wang, Hai and Xiang, Xiaoyu and Tian, Yapeng and Yang, Wenming and Liao, Qingmin},
+  journal={arXiv preprint arXiv:2203.06841},
+  year={2022}
+}
+```
    
 
 
