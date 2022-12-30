@@ -14,7 +14,7 @@ The target of space-time video super-resolution (STVSR) is to increase the spati
 
 ### LSTFI Module
 
-<img src="./assets/LSTFI.png" width = "700" height = "380" alt="LSTFI" align=center />
+<img src="./assets/LSTFI.png" width = "600" height = "330" alt="LSTFI" align=center />
 
 ### STDFA Module
 
