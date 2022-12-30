@@ -6,6 +6,18 @@ By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://enginee
 
 [[Paper]](https://arxiv.org/abs/2203.06841)
 
+## Introduction
+
+### Abstract
+
+The target of space-time video super-resolution (STVSR) is to increase the spatial-temporal resolution of low-resolution (LR) and low frame rate (LFR) videos. Recent approaches based on deep learning have made significant improvements, but most of them only use two adjacent frames, that is, short-term features, to synthesize the missing frame embedding, which cannot fully explore the information flow of consecutive input LR frames. In addition, existing STVSR models hardly exploit the temporal contexts explicitly to assist high-resolution (HR) frame reconstruction. To address these issues, in this paper, we propose a deformable attention network called STDAN for STVSR. First, we devise a long-short term feature interpolation (LSTFI) module, which is capable of excavating abundant content from more neighboring input frames for the interpolation process through a bidirectional RNN structure. Second, we put forward a spatial-temporal deformable feature aggregation (STDFA) module, in which spatial and temporal contexts in dynamic video frames are adaptively captured and aggregated to enhance SR reconstruction.
+
+### LSTFI Module
+
+### STDFA Module
+
+
+
 ## Dependencies
 
 - Python 3.8.0 (Recommend to use Anaconda)
