@@ -1,4 +1,4 @@
-If you plan to use Vid4 and SPMC-11 datasets in your paper, please cite:
+If you plan to use [Vid4](), [SPMC-11]() and [Vimeo](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip) datasets in your paper, please cite:
 ```BibTex
 @article{liu2013bayesian,
   title={On Bayesian adaptive video super resolution},
@@ -17,5 +17,16 @@ If you plan to use Vid4 and SPMC-11 datasets in your paper, please cite:
   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   pages={4472--4480},
   year={2017}
+}
+
+@article{xue2019video,
+  title={Video enhancement with task-oriented flow},
+  author={Xue, Tianfan and Chen, Baian and Wu, Jiajun and Wei, Donglai and Freeman, William T},
+  journal={International Journal of Computer Vision},
+  volume={127},
+  number={8},
+  pages={1106--1125},
+  year={2019},
+  publisher={Springer}
 }
 ```
