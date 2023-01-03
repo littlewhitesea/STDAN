@@ -1,4 +1,4 @@
-If you plan to use Vid4 and SPMC-11 datasets in the experiment of your paper, please cite:
+If you plan to use Vid4 and SPMC-11 datasets in your paper, please cite:
 ```BibTex
 @article{liu2013bayesian,
   title={On Bayesian adaptive video super resolution},
