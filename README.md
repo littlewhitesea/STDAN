@@ -1,6 +1,6 @@
 # STDAN (Keep Update)
 
-This is the official Pytorch implementation of _STDAN: Deformable Attention Network for Space-Time Video Super-Resolution_ (TNNLS).
+This is the official Pytorch implementation of _STDAN: Deformable Attention Network for Space-Time Video Super-Resolution_.
 
 By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), [Yapeng Tian](https://www.yapengtian.com/), [Wenming Yang](http://www.fiesta.tsinghua.edu.cn/pi/3/38), [Qingmin Liao](https://ieeexplore.ieee.org/author/37313219600)
 
