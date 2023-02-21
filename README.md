@@ -80,15 +80,12 @@ Our pretrained model can be downloaded via [Google Drive](https://drive.google.c
 
 If you find the code helpful in your research or work, please cite our paper:
 ```Bibtex
-@ARTICLE{10045744,
+@article{wang2023stdan,
+  title={Stdan: deformable attention network for space-time video super-resolution},
   author={Wang, Hai and Xiang, Xiaoyu and Tian, Yapeng and Yang, Wenming and Liao, Qingmin},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={STDAN: Deformable Attention Network for Space-Time Video Super-Resolution}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2023},
-  volume={},
-  number={},
-  pages={1-11},
-  doi={10.1109/TNNLS.2023.3243029}
+  publisher={IEEE}
 }
 ```
    
