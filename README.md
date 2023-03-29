@@ -24,7 +24,7 @@ The target of space-time video super-resolution (STVSR) is to increase the spati
 ## Dependencies
 
 - Python 3.8.0 (Recommend to use Anaconda)
-- PyTorch == 1.8.0
+- [PyTorch == 1.4.0](https://pytorch.org/get-started/previous-versions/)
 - CUDA == 10.1
 - [Deformable Convolution v2](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Deformable_ConvNets_V2_More_Deformable_Better_Results_CVPR_2019_paper.pdf), we use [Detectron2's implementation](https://github.com/facebookresearch/detectron2/tree/main/detectron2/layers/csrc/deformable) in the network.
 
