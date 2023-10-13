@@ -4,6 +4,10 @@ This is the official Pytorch implementation of _STDAN: Deformable Attention Netw
 
 By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), [Yapeng Tian](https://www.yapengtian.com/), [Wenming Yang](http://www.fiesta.tsinghua.edu.cn/pi/3/38), [Qingmin Liao](https://ieeexplore.ieee.org/author/37313219600)
 
+<a target="_blank" href="https://colab.research.google.com/github/littlewhitesea/STDAN/blob/main/uploaded_STDAN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### [Paper](https://ieeexplore.ieee.org/document/10045744) | [Data](https://github.com/littlewhitesea/STDAN/blob/main/datasets/readme.md)
 
 ## Introduction
