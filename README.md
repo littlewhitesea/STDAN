@@ -8,7 +8,7 @@ By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://enginee
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### [Paper](https://ieeexplore.ieee.org/document/10045744) | [Data](https://github.com/littlewhitesea/STDAN/blob/main/datasets/readme.md)
+### [Paper](https://ieeexplore.ieee.org/document/10045744) | [Data](https://github.com/littlewhitesea/STDAN/blob/main/datasets/readme.md) | [Colab](https://colab.research.google.com/github/littlewhitesea/STDAN/blob/main/uploaded_STDAN.ipynb)
 
 ## Introduction
 
