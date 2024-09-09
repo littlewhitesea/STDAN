@@ -2,7 +2,7 @@
 
 This is the official Pytorch implementation of _STDAN: Deformable Attention Network for Space-Time Video Super-Resolution_.
 
-By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://engineering.purdue.edu/people/xiaoyu.xiang.1), [Yapeng Tian](https://www.yapengtian.com/), [Wenming Yang](http://www.fiesta.tsinghua.edu.cn/pi/3/38), [Qingmin Liao](https://ieeexplore.ieee.org/author/37313219600)
+By [Hai Wang](https://littlewhitesea.github.io/), [Xiaoyu Xiang](https://xiaoyux1ang.github.io/), [Yapeng Tian](https://www.yapengtian.com/), [Wenming Yang](http://www.fiesta.tsinghua.edu.cn/pi/3/38), [Qingmin Liao](https://ieeexplore.ieee.org/author/37313219600)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2203.06841-b31b1b.svg)](https://arxiv.org/abs/2203.06841)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/littlewhitesea/STDAN/blob/main/uploaded_STDAN.ipynb)
