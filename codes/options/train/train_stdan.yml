@@ -4,7 +4,7 @@ use_tb_logger: false #true
 model: VideoSR_base
 distortion: sr
 scale: 4
-gpu_ids: [2, 3]
+gpu_ids: [0, 1, 2, 3, 4, 5]
 
 
 #### datasets
@@ -23,7 +23,7 @@ datasets:
     N_frames: 7
     use_shuffle: true
     n_workers: 3  # per GPU
-    batch_size: 6
+    batch_size: 18
     GT_size: 128
     LQ_size: 32
     use_flip: true
@@ -46,7 +46,7 @@ path:
 
 #### training settings: learning rate scheme, loss
 train:
-  lr_G: !!float 2e-5
+  lr_G: !!float 2e-4
   lr_scheme: CosineAnnealingLR_Restart
   beta1: 0.9
   beta2: 0.99
